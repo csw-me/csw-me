@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Come Sit With Me"
+  navbar:
+    left:
+      - text: Events
+        menu: 
+          - events/TempTats/events.qmd
+          - events/Drinks&Yap/events.qmd
+          - events/CafeFest/events.qmd
+          - events/BouqetBash2/events.qmd
+          - events/BouqetBash/events.qmd
+          - events/Solo/events.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    css: styles.css

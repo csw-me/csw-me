@@ -1,0 +1,93 @@
+---
+title: "Come Sit With Me"
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: styles.css
+---
+```{=html}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+  .hero::before {
+    background-image: url('NextEvent.png'); /* <--replace with your poster if needed */
+  }
+</style>
+<!-- Top Banner -->
+<section class="hero" role="img" aria-label="Event poster background"> 
+<div class="eyebrow">Next Event</div> 
+<div class="hero-inner">
+<div class="hero-card"> 
+<div class="event-info"> 
+<h1 class="hero-title">Temp Tats Pop-Up</h1> 
+<div class="meta"> 
+<span class="pill">Sun • Sep 21, 2025</span> 
+<span class="pill">12:00 PM – 5:00 PM</span> 
+<span class="pill">Location</span> 
+</div>
+<div class="cta"> 
+<a class="btn" href="events/TempTats/events.html">More Information</a> 
+<a class="btn" href="events/TempTats/events.html">RSVP</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+</section> 
+
+<!-- Upcoming Events -->
+<section id="events" style: "padding-top: 50px">
+  <h2>Recent Events</h2>
+  	<a href="events/Drinks&Yap/events.html" style="display: block">
+		<div class="event-grid">
+			<div class="event-card">
+			<img src="events/Drinks&Yap/Main.png" alt="Drinks&Yap">
+			<div class="info">
+				<div class="title" style="color:var(--mywhite)">Drinks & Yap</div>
+				<div class="date">Aug 9, 2025</div>
+			</div>
+		</div>
+	</a>
+
+	<a href="events/CafeFest/events.html" style="display: block">
+		<div class="event-card">
+		<img src="events/CafeFest/Main.png" alt="CafeFest">
+		<div class="info">
+			<div class="title" style="color:var(--mywhite)">CafeFest</div>
+			<div class="date">Jun 7, 2025</div>
+		</div>
+		</div>
+	</a>
+
+	<a href="events/BouqetBash2/events.html" style="display: block">
+		<div class="event-card">
+		<img src="events/BouqetBash2/Main.png" alt="BouqetBash2">
+		<div class="info">
+			<div class="title" style="color:var(--mywhite)">Bouqet Bash 2</div>
+			<div class="date">Feb 21, 2025</div>
+		</div>
+		</div>
+	</a>
+
+	<a href="events/BouqetBash/events.html" style="display: block">
+		<div class="event-card">
+		<img src="events/BouqetBash/Main.png" alt="Bouqet Bash">
+		<div class="info">
+			<div class="title" style="color:var(--mywhite)">Bouqet Bash</div>
+			<div class="date">Feb 8, 2025</div>
+		</div>
+		</div>
+  	</a>
+
+  	<a href="events/Solo/events.html" style="display: block">
+		<div class="event-card">
+		<img src="events/Solo/Main.png" alt="Solo">
+		<div class="info">
+			<div class="title" style="color:var(--mywhite)">Solo</div>
+			<div class="date">Various</div>
+		</div>
+		</div>
+	</a>
+  </div>
+
+  <h4 style="color:var(--myblack)">Have photos from an event or want to be in the loop about upcoming events? Connect with us on Instagram!<a href="https://www.instagram.com/csw.me/" class="fa fa-instagram"></a></h4>
+</section>

@@ -1,0 +1,20 @@
+---
+title: "Past Events"
+format: html
+page-layout: full
+---
+
+# Past Events
+
+Here's a look at the events we've hosted:
+
+## June 2025 – Garden Gathering 🌿  
+A cozy summer evening in Volunteer Park with candlelit picnic tables, a poetry reading corner, and acoustic music.
+
+## April 2025 – Spring Social Bloom 🌸  
+We welcomed spring with a floral-themed gathering at Gas Works Park. Guests brought their favorite blooms to exchange.
+
+## February 2025 – Fireside Connections 🔥  
+An intimate indoor meet-up at a Capitol Hill lounge, complete with board games, warm drinks, and deep conversation prompts.
+
+[Back to Home](index.qmd)
