@@ -261,3 +261,75 @@ h1.hero-title {
 .anchorjs-link {
   display: none;
 }
+
+.donation-cards {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+  background: var(--color-card-bg);
+  color: var(--color-text);
+}
+
+.donation-section {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  padding: 20px;
+  background: var(--color-card-bg);
+  color: var(--color-text);
+}
+
+.donation-cards h3 {
+  margin-bottom: 10px;
+  color: var(--color-heading);
+}
+
+.donation-card {
+  border: 1px solid ivory;
+  border-radius: 10px;
+  padding: 15px;
+  color: var(--color-border);
+  border: 1px solid ivory;
+  box-shadow: var(--myblue) 0px 3px 8px;
+  background: transparent;
+}
+
+.donation-card h4 {
+  margin-top: 0;
+  font-size: 1.15rem;
+  color: var(--color-border);
+}
+
+.donation-card small {
+  color: var(--color-border);
+  font-size: 0.85rem;
+  font-weight: normal;
+}
+
+.donation-card p {
+  margin: 0.3rem 0 0.5rem 0;
+  color: var(--color-border);
+}
+
+.donation-card ul {
+  padding-left: 1.2rem;
+  margin-bottom: 0.6rem;
+  color: var(--color-border);
+}
+
+.donation-card ul li {
+  margin-bottom: 0.35rem;
+}
+
+a {
+  text-decoration: none;
+  font-weight: 600;
+  color:var(--color-border);
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: var(--color-border);
+}
