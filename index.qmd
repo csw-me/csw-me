@@ -26,8 +26,9 @@ format:
 <span class="pill">Location</span> 
 </div>
 <div class="cta"> 
-<a class="btn" href="events/TempTats/events.html">More Information</a> 
-<a class="btn" href="events/TempTats/events.html">RSVP</a> 
+<a class="btn" href="events/TempTats/events.html">More Information/Donations</a> 
+<a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSdLuOizgYSSQoTOpT2Ei_Xj2PceZ47jhhfIqzn2ymj8hGIomA/viewform?usp=header">Arist Sign-Up</a> 
+<a class="btn" href="https://partiful.com/e/04gsiikRPdfO7RdHCI7j">RSVP</a> 
 </div> 
 </div> 
 </div> 

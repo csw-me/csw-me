@@ -5,8 +5,7 @@ page-layout: full
 ---
 
 ```{=html}
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 <style>
   .hero::before {
     background-image: url('Main.png'); /* <-- replace with your poster if needed */
@@ -47,11 +46,12 @@ page-layout: full
 <h1 class="hero-title">Temp Tats Pop-Up</h1> 
 <div class="meta"> 
 <span class="pill">Sun • Sep 21, 2025</span> 
-<span class="pill">12:00 PM – 5:00 PM</span> 
-<span class="pill">Location</span> 
+<span class="pill">11:00 AM – 7:00 PM</span> 
+<span class="pill">Boston Common</span> 
 </div>
 <div class="cta"> 
-<a class="btn" href="events/TempTats/events.html">RSVP</a> 
+<a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSdLuOizgYSSQoTOpT2Ei_Xj2PceZ47jhhfIqzn2ymj8hGIomA/viewform?usp=header">Arist Sign-Up</a> 
+<a class="btn" href="https://partiful.com/e/04gsiikRPdfO7RdHCI7j">RSVP</a> 
 </div> 
 </div> 
 </div> 
@@ -61,6 +61,111 @@ page-layout: full
 <!-- DESCRIPTION centered directly under hero --> 
 <div class="desc-wrap"> 
 	<h2>About the Event</h2> 
+<p>🦑 If you fit any of the following categories, boy do I have an event for you!!
+<li>Wants a tattoo but isn't ready to commit / drop the funds</li>
+<li>Likes supporting cool artists</li>
+<li>Picnic girlies OR aspiring picnic girlies</li>
+<li>Is down to mingle & yap & make new friends</li>
+</p>
+<p>🐉 THE VISION: All-day picnic featuring local artists doing temporary tattoos!
+<li>Bring a picnic blanket + a snack to share if u can
+<li>Invite all your friends!! Can we make this a mega-picnic?!?!
+<li>Drop in whenever <3
+</p>
+<p>🍉 Suggested donations for temporary tattoos will be $5-20+ (depending on design). All proceeds will go toward Gaza relief efforts.</p>
+
+<p>🌙 Stay tuned for more info, including artist intros + schedule drop!</p>
+
+<p>🦦 RSVP by Tues 9/16 for a trinket :)</p>
+</div>
+
+<div class="desc-wrap"> 
+	<h2>Meet the Artists</h2> 
+
+<div class="grid">
+
+<div class="artist-card">
+    <img src="artists/ThaoVy.jpg" alt="Thao-Vy"></img>
+    <a href ="https://www.instagram.com/_thaovyle" class="artist-card-link"><h3 style = "text-transform: uppercase;">Thao-Vy <i class="fa-brands fa-instagram"></i></h3></a>
+    <p style="font-style: italic;">(she/her)</p>
+    <p><span style = "font-weight: bold;">Tattoo Medium</span>: Marker</p>
+    <p><span style = "font-weight: bold;">Time</span>: 11:00 AM - 7:00 PM<p>
+</div>
+
+<div class="artist-card">
+    <img src="artists/Mika.jpg" alt="Mika"></img>
+    <a href ="https://www.instagram.com/mikaichikiwelches" class="artist-card-link"><h3 style = "text-transform: uppercase;">Mika <i class="fa-brands fa-instagram"></i></h3></a>
+    <p><span style = "font-weight: bold;">Tattoo Medium</span>: Marker, Henna</p>
+    <p><span style = "font-weight: bold;">Time</span>: 11:00 AM - 7:00 PM<p>
+    <a href="mikaichikiwelches.com" class="artist-card-link">mikaichikiwelches.com</a>
+</div>
+
+<div class="artist-card">
+    <img src="artists/aros.jpg" alt="aros l"></img>
+    <a href ="https://www.instagram.com/inkblakk" class="artist-card-link"><h3 style = "text-transform: uppercase;">aros l <i class="fa-brands fa-instagram"></i></h3></a>
+    <p><span style = "font-weight: bold;">Tattoo Medium</span>: Marker</p>
+    <p><span style = "font-weight: bold;">Time</span>: 3:00 - 7:00 PM<p>
+</div>
+
+<div class="artist-card">
+    <img src="artists/Allison.jpg" alt="Allison"></img>
+    <h3 style = "text-transform: uppercase;">Allison</h3>
+    <p><span style = "font-weight: bold;">Tattoo Medium</span>: Marker</p>
+    <p><span style = "font-weight: bold;">Time</span>: 3:00 - 7:00 PM<p>
+    <a href="https://www.alliylau.com/ " class="artist-card-link">alliylau.com</a>
+</div>
+
+<div class="artist-card">
+    <img src="artists/Izzy.jpg" alt="Izzy"></img>
+    <a href ="https://www.instagram.com/bebellabelo" class="artist-card-link"><h3 style = "text-transform: uppercase;">Izzy <i class="fa-brands fa-instagram"></i></h3></a>
+    <p style="font-style: italic;">(Any)</p>
+    <p><span style = "font-weight: bold;">Tattoo Medium</span>: Marker, Stencil</p>
+    <p><span style = "font-weight: bold;">Time</span>: 11:00 AM - 7:00 PM<p>
+</div>
+
+<div class="artist-card">
+    <img src="artists/Waka.jpg" alt="Waka Okuda"></img>
+    <a href ="https://www.instagram.com/sleepykurii" class="artist-card-link"><h3 style = "text-transform: uppercase;">Waka Okuda <i class="fa-brands fa-instagram"></i></h3></a>
+    <p><span style = "font-weight: bold;">Tattoo Medium</span>: Marker</p>
+    <p><span style = "font-weight: bold;">Time</span>: 11:00 AM - 5:00 PM<p>
+</div>
+
+<div class="artist-card">
+    <img src="artists/Christina.jpg" alt="Christina Wu"></img>
+    <h3 style = "text-transform: uppercase;">Christina Wu</h3>
+    <p><span style = "font-weight: bold;">Tattoo Medium</span>: Henna</p>
+    <p><span style = "font-weight: bold;">Time</span>: 1:00 - 7:00 PM<p>
+</div>
+
+<div class="artist-card">
+    <img src="artists/Iman.jpg" alt="Iman Moreira"></img>
+    <h3 style = "text-transform: uppercase;">Iman Moreira</h3>
+    <p><span style = "font-weight: bold;">Tattoo Medium</span>: Henna</p>
+    <p><span style = "font-weight: bold;">Time</span>: 11:00 AM - 5:00 PM<p>
+</div>
+
+<div class="artist-card">
+    <img src="artists/Aaron.jpg" alt="Aaron Fu"></img>
+    <h3 style = "text-transform: uppercase;">Aaron Fu</h3>
+    <p><span style = "font-weight: bold;">Tattoo Medium</span>: Marker</p>
+    <p><span style = "font-weight: bold;">Time</span>: 5:00 - 7:00 PM<p>
+</div>
+
+<div class="artist-card">
+    <img src="artists/Ray.jpg" alt="Ray"></img>
+    <a href ="https://www.instagram.com/phosilli" class="artist-card-link"><h3 style = "text-transform: uppercase;">Ray <i class="fa-brands fa-instagram"></i></h3></a>
+    <p><span style = "font-weight: bold;">Tattoo Medium</span>: Marker</p>
+    <p><span style = "font-weight: bold;">Time</span>: 11:00 AM - 7:00 PM<p>
+</div>
+
+<div class="artist-card">
+    <img src="artists/Andrea.jpg" alt="Andrea Huang"></img>
+    <a href ="https://www.instagram.com/andrea._.huang" class="artist-card-link"><h3 style = "text-transform: uppercase;">Andrea Huang <i class="fa-brands fa-instagram"></i></h3></a>
+    <p style="font-style: italic;">(she/her)</p>
+    <p><span style = "font-weight: bold;">Tattoo Medium</span>: Marker</p>
+    <p><span style = "font-weight: bold;">Time</span>: 11:00 AM - 3:00 PM<p>
+</div>
+</div>
 </div>
 
 <div class="desc-wrap"> 
