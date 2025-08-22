@@ -11,6 +11,7 @@ html {
 
 }
 body {
+  font-family: 'Open Sans', sans-serif; /* 'cursive' is a generic fallback */
   background: linear-gradient(to bottom, var(--mywhite), ivory);
 
 }
@@ -21,12 +22,12 @@ h1, h2, title {
 }
 
 h3 {
-  font-family: 'Open Sans'; /* 'cursive' is a generic fallback */
+  font-family: 'Open Sans', sans-serif; /* 'cursive' is a generic fallback */
   font-weight: bold;
 }
 
 p, li {
-  font-family: 'Open Sans'; /* 'cursive' is a generic fallback */
+  font-family: 'Open Sans', sans-serif; /* 'cursive' is a generic fallback */
   font-weight: lighter;
 }
 
