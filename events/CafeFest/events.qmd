@@ -2,6 +2,7 @@
 title: "Cafe Fest"
 format: html
 page-layout: full
+css: styles.css
 ---
 
 ```{=html}

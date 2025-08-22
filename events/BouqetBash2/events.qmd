@@ -2,6 +2,7 @@
 title: "Bouqet Bash 2"
 format: html
 page-layout: full
+css: styles.css
 ---
 
 ```{=html}
